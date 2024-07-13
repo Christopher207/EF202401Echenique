@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492545825760",
+    "project_id": "ef202401echenique",
+    "storage_bucket": "ef202401echenique.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492545825760:android:d919ba7419abf6f715a985",
+        "android_client_info": {
+          "package_name": "com.example.ef202401echenique"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8rF03BptDDc-n1Tc5aTgaThuYQw7hvSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

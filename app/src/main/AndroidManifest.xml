@@ -13,7 +13,13 @@
         android:theme="@style/Theme.EF202401Echenique"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".ListadoEnfrentamientosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegistroEnfrentamientosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegistroEquiposActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

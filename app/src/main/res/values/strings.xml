@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">EF202401Echenique</string>
+    <string name="registroDeEquipos">Registro de Equipos</string>
+    <string name="NombreDelEquipo">Nombre del equipo</string>
+    <string name="UrlDelEscudo">URL del escudo del equipo</string>
+    <string name="Guardar">Guardar</string>
+    <string name="RegistrarEnfrentamientos">Registrar Enfrentamientos</string>
+    <string name="ListadoEnfrentamientos">Listado de Enfrentamientos</string>
+    <string name="RegistroDeEnfrentamientos">Registro de Enfrentamientos</string>
+    <string name="Cuotas">Cuotas</string>
+    <string name="Local">Local (L)</string>
+    <string name="Empate">Empate (X)</string>
+    <string name="Visita">Visita (V)</string>
+    <string name="RegistrarEquipos">Registrar Equipos</string>
+    <string name="Registrar">Registrar</string>
+    <string name="L">L</string>
+    <string name="X">X</string>
+    <string name="V">V</string>
 </resources>
